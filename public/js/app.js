@@ -1,5 +1,3 @@
-console.log("java script file is been loaded ");
-
 const WeatherForm = document.querySelector("form");
 const search = document.querySelector("input");
 
